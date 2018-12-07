@@ -1,0 +1,5 @@
+D:\ismail\InterviewPreparation\webApi\MS.Demo.EntitiyModel\bin\Debug\MS.Demo.EntitiyModel.dll
+D:\ismail\InterviewPreparation\webApi\MS.Demo.EntitiyModel\bin\Debug\MS.Demo.EntitiyModel.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Demo.EntitiyModel\obj\Debug\MS.Demo.EntitiyModel.csprojResolveAssemblyReference.cache
+D:\ismail\InterviewPreparation\webApi\MS.Demo.EntitiyModel\obj\Debug\MS.Demo.EntitiyModel.dll
+D:\ismail\InterviewPreparation\webApi\MS.Demo.EntitiyModel\obj\Debug\MS.Demo.EntitiyModel.pdb

@@ -1,0 +1,13 @@
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Adapter.dll
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Adapter.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\obj\Debug\MS.Adapter.csprojResolveAssemblyReference.cache
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\obj\Debug\MS.Adapter.dll
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\obj\Debug\MS.Adapter.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Models.dll
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Models.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\AutoMapper.dll
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Demo.DataAccess.dll
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Demo.EntitiyModel.dll
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Demo.DataAccess.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\MS.Demo.EntitiyModel.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Adapter\bin\Debug\AutoMapper.xml

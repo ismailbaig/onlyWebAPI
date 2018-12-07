@@ -1,0 +1,5 @@
+D:\ismail\InterviewPreparation\webApi\MS.Models\bin\Debug\MS.Models.dll
+D:\ismail\InterviewPreparation\webApi\MS.Models\bin\Debug\MS.Models.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Models\obj\Debug\MS.Models.dll
+D:\ismail\InterviewPreparation\webApi\MS.Models\obj\Debug\MS.Models.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Models\obj\Debug\MS.Models.csprojResolveAssemblyReference.cache

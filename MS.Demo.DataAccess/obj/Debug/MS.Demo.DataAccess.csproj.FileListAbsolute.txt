@@ -1,0 +1,7 @@
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\bin\Debug\MS.Demo.DataAccess.dll
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\bin\Debug\MS.Demo.DataAccess.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\bin\Debug\MS.Demo.EntitiyModel.dll
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\bin\Debug\MS.Demo.EntitiyModel.pdb
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\obj\Debug\MS.Demo.DataAccess.csprojResolveAssemblyReference.cache
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\obj\Debug\MS.Demo.DataAccess.dll
+D:\ismail\InterviewPreparation\webApi\MS.Demo.DataAccess\obj\Debug\MS.Demo.DataAccess.pdb
